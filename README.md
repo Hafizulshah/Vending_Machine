@@ -1,2 +1,2 @@
 # Vending_Machine
- Vending machine system using assembly language
+A group project of vending machine system using assembly language
